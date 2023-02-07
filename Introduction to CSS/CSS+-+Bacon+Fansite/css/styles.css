@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+/*
+img{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+*/
+.bacon{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+.broccali{
+    height: 150px;
+    width: 150px;
+}
+.para{
+    color: green;
+}
+#heading{
+    color: aquamarine;
+}
